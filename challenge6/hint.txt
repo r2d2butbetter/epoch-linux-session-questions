@@ -1,0 +1,2 @@
+What do we mean by pass -h?
+Definitely not just writing -h in the terminal
