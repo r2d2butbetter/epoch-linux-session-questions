@@ -10,5 +10,5 @@ app.get("/", (req, res)=>{
 	res.sendFile("index.html");
 });
 app.listen(5000, ()=>{
-	console.log("shriansh is gay and server is running");
+	console.log("server is running");
 })
